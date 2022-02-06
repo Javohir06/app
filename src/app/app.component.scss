@@ -1,0 +1,23 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+
+  
+  .main {
+    display: flex;
+    min-height: 92vh;
+  
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+  }
+ 
+.login{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
